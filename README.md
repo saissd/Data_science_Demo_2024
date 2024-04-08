@@ -2,8 +2,8 @@
 this is my portfolio project
 
 
-##Background
+## Background
 
 I looked at X,Y,Z
 
-##Intresting graph
+## Intresting graph
